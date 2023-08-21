@@ -17,7 +17,7 @@ Welcome to the Personal User Manual Template! Simply click "Use this template" a
 
 <details>
     <summary>Tips</summary>
-Optional Section: You may want to fill out this as a section to help introduce yourself to new joiners or to people from outside your team. Feel free to keep it light and don't worry about going into much detail about yourself in a professional sense, as that can be covered by later sections. Some suggested points might be where you grew up, what your hobbies are or a fun fact about yourself.
+Hi I am Andy, I am a developer at Manage a workforce
 </details>
 
 ## How to Contact Me
@@ -25,7 +25,7 @@ Optional Section: You may want to fill out this as a section to help introduce y
 
 <details>
     <summary>Tips</summary>
-Essential Section: You might want to think about some caveats here. Perhaps Slack is fine for a quick question but for longer communication you'd prefer to speak in person.
+Slack is fine, you can message me directly if you want to get my attention. For longer conv, or if something complex, huddle with me so that I can draw on your screen.
 </details>
 
 ## Preferred Working Style
@@ -33,7 +33,7 @@ Essential Section: You might want to think about some caveats here. Perhaps Slac
 
 <details>
     <summary>Tips</summary>
-Recommended Section: This section is pretty open to interpretation. You might want to think about practical details like what time of day you focus best, or whether you have external commitments at specific times. Equally you can include more abstract details like whether you find certain kinds of collaboration helpful to get your work done (pairing or shadowing work for example).
+Happy to catch up anytime, except lunch time/middle of the day or if I am just out of a meeting.
 </details>
 
 ## What Motivates Me
@@ -41,7 +41,7 @@ Recommended Section: This section is pretty open to interpretation. You might wa
 
 <details>
     <summary>Tips</summary>
-Recommended Section: Think about what gives you energy in work. What, about the work that you do, motivates you to push yourself? This doesn't need to be inspirational, it can be as simple as you enjoying seeing the results. The purpose of this section is to help your line manager and squad members to gain a picture of the work each person finds meaningful and interesting.
+Supportive environment and collaboration. I like to work with people to make positive change.
 </details>
 
 ## What Demotivates Me
@@ -49,7 +49,7 @@ Recommended Section: Think about what gives you energy in work. What, about the 
 
 <details>
     <summary>Tips</summary>
-Recommended Section: The flip side of the above. Everyone has parts of their work they find less interesting, and they won't be the same for everyone. You never know, a task you find impossibly tedious might be something someone else really enjoys - if so, you've discovered a win-win!
+What demotivates me is not acknowledging something is not right and work with me to make it right.
 </details>
 
 ## My Values (and what I value in others)
@@ -57,7 +57,7 @@ Recommended Section: The flip side of the above. Everyone has parts of their wor
 
 <details>
     <summary>Tips</summary>
-Recommended Section: Accepting that we all treat each other with empathy, care and respect as a baseline. What values do you hold in the highest regard? What traits make you admire a person?
+Make a change, even if it is a small one.
 </details>
 
 ## My Blind Spots
@@ -65,7 +65,7 @@ Recommended Section: Accepting that we all treat each other with empathy, care a
 
 <details>
     <summary>Tips</summary>
-Recommended Section: Everyone needs help sometimes. This is a good section to list the things you know you need help with or actively want feedback on. One caveat is that listing something here doesn't automatically excuse it! If you know you need to work on a particular area then please make sure you are doing so, soliciting feedback to measure your progress.
+My blind spot is not letting me know that you are in a bad spot right now. 
 </details>
 
 ## My Pet Peeves
@@ -73,7 +73,8 @@ Recommended Section: Everyone needs help sometimes. This is a good section to li
 
 <details>
     <summary>Tips</summary>
-Optional Section: It might be tempting to use this section to vent, that's absolutely fine but the more constructive the better. If there are simple things people can reasonably avoid doing, then list them here. Bear in mind that you will also need to also read your squad members' pet peeves section, it's a 2 way street.
+I am less interested in a competitive environment and TechBros mindset or Proving that you or I are right. No one has to prove anything. 
+I like politeness and being reasonable, but be reasonabily direct.
 </details>
 
 ## Other
@@ -81,10 +82,6 @@ Optional Section: It might be tempting to use this section to vent, that's absol
 
 <details>
     <summary>Tips</summary>
-Optional Section: There are some sections that are deliberately omitted from this template, but which arguably should be here - depending on your role, how comfortable you are sharing with your team etc. You may want to include these or use them as inspiration for your own.
 
-- "How I like my 1:1s" - This might be more relevant for managers to set expectations of their direct reports. Although direct reports certainly should have a say in how their 1:1s are structured
-- "Quirks" - While this is a fun one, there is a temptation to hide behaviour here that probably should be worked on instead. Additionally, behaviour is complex, situation dependent and evolving. Stating you have a particular quirk makes it immutable and sets the expectation that you will always act like this. That said please feel free to include a section like this as it's a good icebreaker, and adds a personal touch. Just be aware that you might be unaware of some of your own "quirky" behaviour.
-- "How to interpret my calendar" - If you're someone with wall to wall meetings every day it might be difficult for colleagues to find a good time to speak with you. If this is the case, then this section might be helpful to outline when you typically could make time for them.
-- "What you can expect from me" - Another one that might be useful for line managers, career coaches and mentors more than ICs. You may want to use this to set expectations around how often you'll be scheduling catchups, how you share feedback and what sort of support you can offer.
+- "How I like my 1:1s" - I like being open about issues and we can talk them through. I also like feedback, tell me if I'd change something. 
 </details>
