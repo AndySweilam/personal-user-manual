@@ -17,7 +17,7 @@ Welcome to the Personal User Manual Template! Simply click "Use this template" a
 
 <details>
     <summary>Tips</summary>
-Hi I am Andy, I am a developer at Manage a workforce
+Hi I am Andy, I am a developer at Manage a workforce team at MoJ.
 </details>
 
 ## How to Contact Me
@@ -25,7 +25,7 @@ Hi I am Andy, I am a developer at Manage a workforce
 
 <details>
     <summary>Tips</summary>
-Slack is fine, you can message me directly if you want to get my attention. For longer conv, or if something complex, huddle with me so that I can draw on your screen.
+Slack is fine, you can message me directly if you want to get my attention. For longer conv, or if something more complex, huddle with me so that I can draw on your screen.
 </details>
 
 ## Preferred Working Style
@@ -73,7 +73,7 @@ My blind spot is not letting me know that you are in a bad spot right now.
 
 <details>
     <summary>Tips</summary>
-I am less interested in a competitive environment and TechBros mindset or Proving that you or I are right. No one has to prove anything. 
+I am less interested in a competitive environment and TechBros mindset or proving that you or I are right. No one has to prove anything. 
 I like politeness and being reasonable, but be reasonabily direct.
 </details>
 
@@ -83,5 +83,7 @@ I like politeness and being reasonable, but be reasonabily direct.
 <details>
     <summary>Tips</summary>
 
-- "How I like my 1:1s" - I like being open about issues and we can talk them through. I also like feedback, tell me if I'd change something. 
+- "How I like my 1:1s" - I like being open about issues and we can talk them through. I also like feedback, tell me if I'd change something.
+- "Things I love: " - Food, fixing electronics/electrical stuff, discover cultures, open minded people, walking
+- "Things I hate: " - pretending, lying
 </details>
